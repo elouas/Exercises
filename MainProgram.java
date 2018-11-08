@@ -26,7 +26,7 @@ class MainProgram {
         }
         System.out.println();
     }
-
+    //3) b)
     public static void printRectHollow(char symb, int wid, int hei) {
         for (int height = 1; height <= hei; height++) {
             for (int width = 1; width <= wid; width++) {
